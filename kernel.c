@@ -29,6 +29,6 @@ const unsigned long multiboot_header[] = {
 
 void kernel_main() {
     clear_screen();
-    print("PulseOs booted.");
+    print("Spierdalaj.");
     while (1);
 }
